@@ -1,5 +1,5 @@
 # Hi there 👋 I am Vidhyambika SR
-![hippo](https://github.com/Vidhyambika/Vidhyambika/blob/133fb215742d20a1d242613ffd2d9143fea3c3f4/VIDHYAMBIKA'S%20VISION.gif)
+[![](https://github.com/Vidhyambika/Vidhyambika/blob/133fb215742d20a1d242613ffd2d9143fea3c3f4/VIDHYAMBIKA'S%20VISION.gif)]
 
 About Me
  Loves reading, traveling to new places, and embarking on new adventures.
