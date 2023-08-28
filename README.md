@@ -1,9 +1,8 @@
 ### Hi there 👋
+https://github.com/Vidhyambika/Vidhyambika/assets/63492911/b99d783b-5866-4dbe-bfdb-ab4a87b22d1b
 
-<!--
-**Vidhyambika/Vidhyambika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About Me
+ Loves reading, traveling to new places, and embarking on new adventures.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
