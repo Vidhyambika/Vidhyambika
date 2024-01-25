@@ -32,5 +32,14 @@ About Me
 - 
 - ⚡ Fun fact: ...
 -->
-  <img src="https://github-readme-stats.vercel.app/api?username={Vidhyambika}&theme=blue-green" alt="Github Stats"/> 
+  
+🌐Socials
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/vidhyambika-sr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/vidhyambikasr">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div> 
   
