@@ -1,5 +1,15 @@
 # Hi there 👋 I am Vidhyambika SR
-[![](https://github.com/Vidhyambika/Vidhyambika/blob/133fb215742d20a1d242613ffd2d9143fea3c3f4/VIDHYAMBIKA'S%20VISION.gif)]
+![](https://github.com/Vidhyambika/Vidhyambika/blob/main/VIDHYAMBIKA'S%20VISION.png)
+
+
+About Me
+
+ - 👩🏻‍💻Data Science Student
+ - 🏆 Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)"
+- 👯**Open to collaborating on:** Data Science and AI projects, articles 
+- 🤔 **Seeking help with:** Large Language Models (LLMs)
+- 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, data visualization, & data storytelling
+-
 
 🚀 Skills
 
@@ -19,20 +29,8 @@
  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office Badge"/>
  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Office Badge"/> 
 </div>
-About Me
- 
- - 
- - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- ⚡ Fun fact: ...
--->
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyambika&" alt="vidhyambika" /></p>
 🌐Socials
   <div id="badges">
   <a href="https://www.linkedin.com/in/vidhyambika-sr/">
