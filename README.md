@@ -8,8 +8,9 @@ About Me
  - 🏆 Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)"
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
-- 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, data visualization, & data storytelling
+- 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, data visualization & storytelling
 - Checkout my Github Portfolio (In Development):https://vidhyambika.github.io/
+- 🌟 Fun Fact: “I’m a multilingual artist who expresses creativity through drawing, painting, and writing. When I’m not immersed in colors and stories, I’m busy learning new languages and exploring diverse topics!”
 
 🚀 Skills
 
