@@ -1,5 +1,7 @@
 # Hi there 👋 I am Vidhyambika SR
-I leverage AI technologies to develop innovative solutions that drive positive, sustainable impacts on society.
+**I leverage AI technologies to develop innovative solutions that drive positive, sustainable impacts on society.**
+
+
 ![](https://github.com/Vidhyambika/Vidhyambika/blob/main/VIDHYAMBIKA'S%20VISION.png)
 
 
