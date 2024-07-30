@@ -2,17 +2,21 @@
 ![](https://github.com/Vidhyambika/Vidhyambika/blob/main/VIDHYAMBIKA'S%20VISION.png)
 
 
-About Me
+## About Me
 
- - 👩🏻‍💻Data Science Student
- - 🏆 Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)"
+- 👩🏻‍💻I'm a passionate Data Science Student dedicated to leveraging AI technologies to create innovative solutions to real-world problems that make a positive, sustaniable impact to the society.
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
 - 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, data visualization & storytelling
-- 🚀 Checkout my Github Portfolio (In Development):https://vidhyambika.github.io/
+- 🚀 Checkout my [Github Portfolio](https://vidhyambika.github.io/). Note: It's still in Development
 - 🌟 Fun Fact: “I’m a multilingual artist who expresses creativity through drawing, painting, and writing. When I’m not immersed in colors and stories, I’m busy learning new languages and exploring diverse topics!”
 
-## Technology Stack💡
+## 🏆 Achievements
+- Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)" in the International IEEE Conference.
+- Received Best Library User award from "I. Balakrishna sir (Dy. Director/Scientist,Ministry of Electronics & Information Technology, Govt. of India) @ Dr. N.G.P Institute of Technology.
+- Secured 3rd Prize in the paper presentation titled "Ethical Issues of AI" at the National Level Technical Symposium.
+  
+## 🛠 Technology Stack
 
 <div id="badges">
 
@@ -46,10 +50,6 @@ About Me
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge"/>
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV Badge"/>
 <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy Badge"/>
-  
- ### 🗄️Databases🗃️ 
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Badge"/>
 
 ### Cloud Technologies
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
@@ -57,11 +57,19 @@ About Me
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
 
-### Others
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office Badge"/>
+ ### 🗄️Databases 
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Badge"/>
+
+### Specialties
+Data Analysis, Data pre-processing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series-Forecasting, Optimization, Big Data Technologies and Analytics,
+Generative AI, Data Visualization and Storytelling
+
+### Others                 
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office Badge"/>
 </div>
 
-### Socials🌐
+### 📫 Connect with Me
   <div id="badges">
   <a href="https://www.linkedin.com/in/vidhyambika-sr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
