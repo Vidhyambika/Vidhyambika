@@ -12,7 +12,7 @@ About Me
 - 🚀 Checkout my Github Portfolio (In Development):https://vidhyambika.github.io/
 - 🌟 Fun Fact: “I’m a multilingual artist who expresses creativity through drawing, painting, and writing. When I’m not immersed in colors and stories, I’m busy learning new languages and exploring diverse topics!”
 
-## 🖥️Technology Stack💡
+## Technology Stack💡
 
 <div id="badges">
 
@@ -61,7 +61,7 @@ About Me
  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office Badge"/>
 </div>
 
-## 🌐Socials
+### Socials🌐
   <div id="badges">
   <a href="https://www.linkedin.com/in/vidhyambika-sr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
