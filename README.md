@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
 
- ### 🗄️Databases 
+ ### Databases 
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Badge"/>
 
@@ -88,12 +88,10 @@ Generative AI, Data Visualization and Storytelling
   </a>     
 </div> 
 <br>
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyambika&" alt="vidhyambika" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyambika&show_icons=true&theme=dark&locale=en&layout=compact" alt="vidhyambika" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vidhyambika&show_icons=true&theme=dark&locale=en" alt="vidhyambika" /></td>
-  </tr>
-</table>
+<div>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyambika&" alt="vidhyambika" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyambika&show_icons=true&theme=dark&locale=en&layout=compact" alt="vidhyambika" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=vidhyambika&show_icons=true&theme=dark&locale=en" alt="vidhyambika" /></p>
+</div>
 
 
