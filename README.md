@@ -1,10 +1,11 @@
 # Hi there 👋 I am Vidhyambika SR
+I leverage AI technologies to develop innovative solutions that drive positive, sustainable impacts on society.
 ![](https://github.com/Vidhyambika/Vidhyambika/blob/main/VIDHYAMBIKA'S%20VISION.png)
 
 
 ## About Me
 
-- 👩🏻‍💻I'm a passionate Data Science Student dedicated to leveraging AI technologies to create innovative solutions to real-world problems that make a positive, sustaniable impact to the society.
+- 👩🏻‍💻AI/ML Specialist and Researcher
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
 - 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, data visualization & storytelling
