@@ -8,6 +8,7 @@
 ## About Me
 
 - 👩🏻‍💻AI/ML Specialist and Researcher
+- My favorite programming language is **Python** 
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
 - 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, data visualization & storytelling
@@ -24,16 +25,9 @@
 <div id="badges">
 
 ### Languages 
- <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/>
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
- <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="HTML5 Badge"/>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
  
+  [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,r,js,html,css,matlab,php)](https://skillicons.dev)
+
 ### Tools and Frameworks 
  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI Badge"/>
@@ -44,7 +38,7 @@
  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css3&logoColor=white" alt="Tailwind CSS Badge"/>
 
 ### Libraries 
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/>
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge"/> 
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge"/>
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="Plotly Badge"/>
@@ -55,13 +49,14 @@
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV Badge"/>
 <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy Badge"/>
 
-### Cloud Technologies
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Badge"/>
-<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white" alt="IBM Cloud Badge"/>
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Badge"/>
+<img height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhadrienj.github.io%2Fassets%2Fimages%2Ficons%2Fmatplotlib.png&f=1&nofb=1&ipt=104b88980eb48ef3c020c198c6e21d039aa6341a999da660f01f063edbb6885b&ipo=images" />
+<img height="50" width="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorseek.com%2Fwp-content%2Fuploads%2F2023%2F12%2Fseaborn-Logo-Vector.svg-.png&f=1&nofb=1&ipt=7803b92be3afcad4cb70e4ec94c99dc22e9b75279a479cd8689581c9025efe0c&ipo=images" />
 
- ### Databases 
+### Cloud Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)   <img height="50" width="50" src="https://github.com/Vidhyambika/Vidhyambika/blob/main/assets/ibm-cloud-dark.png" />
+
+### Databases 
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Badge"/>
 
