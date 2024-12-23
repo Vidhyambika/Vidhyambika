@@ -29,15 +29,18 @@
   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,r,js,html,css,matlab,php)](https://skillicons.dev)
 
 ### Tools and Frameworks 
+ <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain Badge"/>
  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau Badge"/>
  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI Badge"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit Badge"/>
+ <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana Badge"/>
+ <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus Badge"/>
  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS Badge"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css3&logoColor=white" alt="Tailwind CSS Badge"/>
+ <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Tailwind CSS Badge"/>
 
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain Badge"/>
  
 
 ### Libraries 
@@ -62,36 +65,51 @@
 ### Databases 
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle SQL Badge"/>
+ <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Oracle SQL Badge"/>
 
 ### Specialties
 Data Analysis, Data pre-processing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series-Forecasting, Optimization, Big Data Technologies and Analytics,
 Generative AI, Data Visualization and Storytelling
 
+### Operating Systems
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+
+### IDEs, Text Editors and Platforms
+[![My Skills](https://skillicons.dev/icons?i=anaconda,vscode,pycharm,arduino,raspberrypi,sublime,atom,androidstudio)](https://skillicons.dev)
+<img height="47" width="47" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
+<img height="47" width="47" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/be791591-7b5a-4ada-9331-ff577f71a530" />
+
+
 ### Others                 
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office Badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/>
 </div>
 
+
 ### 📫 Connect with Me
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/vidhyambika-sr/">
+<div id="badges">
+<a href="https://www.linkedin.com/in/vidhyambika-sr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://vidhyambika.github.io/">
+</a>
+<a href="https://vidhyambika.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
+</a>
 <a href="https://www.kaggle.com/vidhyambikasr">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+</a>
 <a href="https://www.hackerrank.com/profile/vidhyambika1
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
-  </a>     
+    <img src="	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/>
+</a>  
+    
 </div> 
 <br>
 <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyambika&" alt="vidhyambika" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhyambika&show_icons=true&theme=dark&locale=en&layout=compact" alt="vidhyambika" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=vidhyambika&show_icons=true&theme=dark&locale=en" alt="vidhyambika" /></p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhyambika&" alt="GitHub Streak Stats">
 </div>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Vidhyambika&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
