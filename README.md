@@ -2,7 +2,7 @@
 **I leverage AI technologies to develop innovative solutions that drive positive, sustainable impacts on society.**
 
 
-![](https://github.com/Vidhyambika/Vidhyambika/blob/main/VIDHYAMBIKA'S%20VISION.png)
+![](https://github.com/Vidhyambika/Vidhyambika/blob/main/GreenBlueFuturisticArtificialIntelligenceVideo1-ezgif.com-video-to-gif-converter.gif)
 
 
 ## About Me
