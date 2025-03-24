@@ -1,8 +1,8 @@
 # Hi there 👋 I am Vidhyambika SR
-**I leverage AI technologies to develop innovative solutions that drive positive, sustainable impacts on society.**
+**Follow me for AI, Tech, Data Science, Blockchain, IoT & Cloud insights!**
 
 
-![](https://github.com/Vidhyambika/Vidhyambika/blob/main/GreenBlueFuturisticArtificialIntelligenceVideo1-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/Vidhyambika/Vidhyambika/blob/0fd24b95086e4036d971297b948f07de513a6619/Data%20EnggData%20PrepMLDLNLPRLCloudBig%20Data%20Feature%20Engg%20VizTime-seriesRAGCVAnomaly%20DetInnovation%20(3).png)
 
 
 ## About Me
