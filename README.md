@@ -11,14 +11,15 @@
 - My favorite programming language is **Python** 
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
-- 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, data visualization & storytelling
+- 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, generative AI, reinforcement learning, data warehousing and data mining, data visualization & storytelling
 - 🚀 Checkout my [Github Portfolio](https://vidhyambika.github.io/). Note: It's still in Development
 - 🌟 Fun Fact: “I’m a multilingual artist who expresses creativity through drawing, painting, and writing. When I’m not immersed in colors and stories, I’m busy learning new languages and exploring diverse topics!”
 
 ## 🏆 Achievements
+- Received the Best Outgoing Student award across all ME/M.Tech courses and the All Rounder of the Department award at the ME/M.Tech Farewell held at Kumaraguru College of Technology.
+- Won Best Paper Award for: "Hybrid Encryption Algorithms for 2D-Medical Image Security and Anomaly Detection: A Novel Approach" in the International IEEE Conference.
 - Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)" in the International IEEE Conference.
 - Received Best Library User award from "I. Balakrishna sir (Dy. Director/Scientist,Ministry of Electronics & Information Technology, Govt. of India) @ Dr. N.G.P Institute of Technology.
-- Secured 3rd Prize in the paper presentation titled "Ethical Issues of AI" at the National Level Technical Symposium.
   
 ## 🛠 Technology Stack
 
