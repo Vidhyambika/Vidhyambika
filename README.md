@@ -9,13 +9,6 @@
 
 - 👩🏻‍💻AI/ML Specialist and Researcher
 - My favorite programming language is **Python**
-- EExpertise in:
-
-Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Reinforcement Learning (RL), Natural Language Processing (NLP), Computer Vision, and Generative AI.
-
-Data Science, Data Analysis, Data Visualization, Data Mining, Data Wrangling, and Data Preprocessing & Preparation.
-
-Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
 - 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, generative AI, reinforcement learning, data warehousing and data mining, data visualization & storytelling
@@ -82,8 +75,7 @@ Healthcare, Cybersecurity, Blockchain, Ethical Hacking, Cryptography, Internet o
  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Oracle SQL Badge"/>
 
 ### Specialties
-Data Analysis, Data pre-processing, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Time Series-Forecasting, Optimization, Big Data Technologies and Analytics,
-Generative AI, Data Visualization and Storytelling
+Time Series-Forecasting, Optimization, Big Data Technologies and Analytics, Hyperparameter Tuning, Research, Report Generation, APIs, Data Storytelling, Data Engineering, Calculus, Vectors and Matrices, Permutations and Combinations, Multivariate Statistics and Anomaly Detection
 
 ### Operating Systems
 
