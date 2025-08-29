@@ -8,19 +8,32 @@
 ## About Me
 
 - 👩🏻‍💻AI/ML Specialist and Researcher
-- My favorite programming language is **Python** 
+- My favorite programming language is **Python**
+- EExpertise in:
+
+Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Reinforcement Learning (RL), Natural Language Processing (NLP), Computer Vision, and Generative AI.
+
+Data Science, Data Analysis, Data Visualization, Data Mining, Data Wrangling, and Data Preprocessing & Preparation.
+
+Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
 - 👯**Open to collaborating on:** Data Science and AI projects, articles 
 - 🤔 **Seeking help with:** Large Language Models (LLMs)
 - 💬 **Happy to discuss:** Data analysis, data preprocessing, machine learning, deep learning, natural language processing, computer vision, generative AI, reinforcement learning, data warehousing and data mining, data visualization & storytelling
 - 🚀 Checkout my [Github Portfolio](https://vidhyambika.github.io/). Note: It's still in Development
 - 🌟 Fun Fact: “I’m a multilingual artist who expresses creativity through drawing, painting, and writing. When I’m not immersed in colors and stories, I’m busy learning new languages and exploring diverse topics!”
 
-## 🏆 Achievements
+## 🏆 Achievements/Milestones
 - Received the Best Outgoing Student award across all ME/M.Tech courses and the All Rounder of the Department award at the ME/M.Tech Farewell held at Kumaraguru College of Technology.
 - Won Best Paper Award for: "Hybrid Encryption Algorithms for 2D-Medical Image Security and Anomaly Detection: A Novel Approach" in the International IEEE Conference.
 - Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)" in the International IEEE Conference.
 - Received Best Library User award from "I. Balakrishna sir (Dy. Director/Scientist,Ministry of Electronics & Information Technology, Govt. of India) @ Dr. N.G.P Institute of Technology.
-  
+
+## Areas of Expertise:
+Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Reinforcement Learning (RL), Natural Language Processing (NLP), Computer Vision, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents, Data Science, Data Analysis, Data Visualization, Data Mining, Data Wrangling, and Data Preprocessing & Preparation.
+
+## Domain Expertise:
+Healthcare, Cybersecurity, Blockchain, Ethical Hacking, Cryptography, Internet of Things (IoT), Renewable Energy, Retail, E-commerce, Climate Science, Sustainability, Education, EdTech, Manufacturing and Industry 4.0
+
 ## 🛠 Technology Stack
 
 <div id="badges">
