@@ -17,7 +17,7 @@
 
 ## 🏆 Achievements/Milestones
 - Received the Best Outgoing Student award across all ME/M.Tech courses and the All Rounder of the Department award at the ME/M.Tech Farewell held at Kumaraguru College of Technology.
-- Won Best Paper Award for: "Hybrid Encryption Algorithms for 2D-Medical Image Security and Anomaly Detection: A Novel Approach" in the International IEEE Conference.
+- Won Best Paper Award for: "[Hybrid Encryption Algorithms for 2D-Medical Image Security and Anomaly Detection: A Novel Approach](https://doi.org/10.1109/ICCIES63851.2025.11033087)" in the International IEEE Conference.
 - Won Best Paper Award for: "[Week Ahead Wind Power Forecast Using A Time-Series Forecasting Model](https://ieeexplore.ieee.org/abstract/document/10112685)" in the International IEEE Conference.
 - Received Best Library User award from "I. Balakrishna sir (Dy. Director/Scientist,Ministry of Electronics & Information Technology, Govt. of India) @ Dr. N.G.P Institute of Technology.
 
